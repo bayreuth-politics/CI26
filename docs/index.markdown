@@ -6,7 +6,7 @@ nav_order: 1
 
 
 
-This is the page of the Causal Inference course in Spring Term 2025 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. The course builds upon a methodology class taught at Oxford.
+This is the page of the Causal Inference course in Spring Term 2026 at the University of Bayreuth. The course is taught by Ken Stiller *(kenneth.stiller@uni-bayreuth.de)*. The course builds upon a methodology class taught at Oxford.
 
 ## Classes
 
@@ -18,9 +18,9 @@ This is the page of the Causal Inference course in Spring Term 2025 at the Unive
 
 • Participation in class (15% of final mark)
 
-• Presentations at the second weekend (35% of final mark). Send me your selected paper by **9 May**.
+• Written Quiz (30% of final mark). date tbc.
 
-• Take-home exam (50% of final mark): Due at noon on 30 June 2025.
+• Take-home exam (56% of final mark): tbc.
 
 ## Syllabus
 
