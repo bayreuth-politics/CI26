@@ -10,9 +10,9 @@ This is the page of the Causal Inference course in Spring Term 2026 at the Unive
 
 ## Classes
 
-• **1st Weekend:** Friday 25 April 12pm-6pm; Saturday 26 April 8am-6pm; Sunday 27 April 8am-12pm **(all in S40 (RWII))**
+• **Tuesdays: 2pm-4pm in S138 (NWII)**
 
-• **2nd Weekend:** Friday 23 May 12pm-6pm (S91 GWI); Saturday 24 May 8am-6pm (S8 GWII); Sunday 25 May 8am-12pm (S8 GWII)
+• **Wednesdays: 2pm-4pm in H27 (GWII)**
 
 ## Assessments
 
@@ -20,10 +20,10 @@ This is the page of the Causal Inference course in Spring Term 2026 at the Unive
 
 • Written Quiz (30% of final mark). date tbc.
 
-• Take-home exam (56% of final mark): tbc.
+• Take-home exam (55% of final mark): tbc.
 
 ## Syllabus
 
 
-<embed src="Syllabus_CI_25_Bayreuth.pdf" width="800" height="650" 
+<embed src="CI26_Syllabus.pdf" width="800" height="650" 
  type="application/pdf">
