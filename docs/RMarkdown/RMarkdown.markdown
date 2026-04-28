@@ -14,7 +14,7 @@ __R Script & Extended Markdown Example__
 
 Here you can find the R-refresher script as well as the extended markdown example file.
 
-[Lab 1 - R Script](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/RMarkdown/CI25_Lab1_RMarkdown.R){: .btn .btn-green }
+[Lab 1 - R Script](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/RMarkdown/CI26_Lab1_RMarkdown.R){: .btn .btn-green }
 [Lab 1 - Data](https://bayreuth-politics.github.io/CI26/data/elbe_flooding.csv){: .btn .btn-green }
 [Extended Markdown Code](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/RMarkdown/R_Markdown_Example.Rmd){: .btn .btn-blue }
 [Extended PDF Output](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/RMarkdown/R_Markdown_Example.pdf){: .btn .btn-blue }
