@@ -10,7 +10,7 @@ This is the page of the Causal Inference course in Spring Term 2026 at the Unive
 
 ## Classes
 
-• **Tuesdays: 2pm-4pm in S138 (NWII)**
+• **Tuesdays: 2pm-4pm in S138 (NWIII)**
 
 • **Wednesdays: 2pm-4pm in H27 (GWII)**
 
