@@ -8,7 +8,7 @@ nav_order: 2
 
  [Lecture 1](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week1.pdf){: .btn .btn-blue .mr-3}
  [Lecture 2](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week2.pdf){: .btn .btn-blue .mr-3} 
-<!-- [Part 3](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part3.pdf){: .btn .btn-blue .mr-3} -->
+ [Lecture 3](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week3.pdf){: .btn .btn-blue .mr-3} 
 
 
 <!-- [Part 4](https://raw.githubusercontent.com/bayreuth-politics/CI25/main/docs/lectures/CI_25_Slides_Bayreuth_Part4.pdf){: .btn .btn-blue .mr-3} -->
