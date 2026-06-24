@@ -20,10 +20,10 @@ nav_order: 2
  [Lecture 6](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week6.pdf){: .btn .btn-blue .mr-3} 
 
  [Lecture 7](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week7.pdf){: .btn .btn-blue .mr-3}
-[Lecture 8](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week8.pdf){: .btn .btn-blue .mr-3}
- 
 
- [Lecture 8](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week8.pdf){: .btn .btn-blue .mr-3}
+
+[Lecture 8](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week8.pdf){: .btn .btn-blue .mr-3}
+ [Lecture 9](https://raw.githubusercontent.com/bayreuth-politics/CI26/main/docs/lectures/CI26_Week9.pdf){: .btn .btn-blue .mr-3}
 
  
 
